@@ -37,6 +37,8 @@ Could add with the given user id's (see photo below) so had to remove that part 
 ![Screenshot](src/DC60FB8B-70EE-404A-950B-307B39487738.jpeg)
 ![Screenshot](src/17E84374-9D83-4B17-BA3C-F77E387BADEC.jpeg)
 ![Screenshot](src/0D9BAC35-D771-436B-8ACA-D5AE0F061F76.jpeg)
+![Screenshot](src/B33A1CD0-8166-4356-8733-42CD1A3AB315.jpeg)
+![Screenshot](src/F0F5377A-0A85-4064-BB27-47B0BED8E2E5.jpeg)
 
 ## 7 Weekly backup
 
