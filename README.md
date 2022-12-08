@@ -7,13 +7,21 @@
 ![Screenshot](src/Screenshot%20(31).png)
 ![Screenshot](src/Screenshot%20(32).png)
 
-## 2 - DHCP
+## 2 Static IP
+
+![Screenshot](src/Screenshot%20(49).png)
+
+## 3 - DHCP
 
 ![Screenshot](src/Screenshot%20(44).png)
 ![Screenshot](src/Screenshot%20(45).png)
 ![Screenshot](src/Screenshot%20(46).png)
 
-## 3 - DNS
+## 4 - DNS
 
 ![Screenshot](src/Screenshot%20(42).png)
 ![Screenshot](src/Screenshot%20(43).png)
+![Screenshot](src/Screenshot%20(47).png)
+![Screenshot](src/Screenshot%20(48).png)
+
+## 5
