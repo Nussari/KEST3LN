@@ -40,3 +40,13 @@ Could add with the given user id's (see photo below) so had to remove that part 
 
 ![Screenshot](src/Screenshot%20(17).png)
 ![Screenshot](src/Screenshot%20(30).png)
+
+## 8 NTP server
+
+Clients only connected to server
+![Screenshot](src/Screenshot%20(21).png)
+![Screenshot](src/Screenshot%20(23).png)
+Client configurations
+![Screenshot](src/Screenshot%20(22).png)
+Server configurations, connected to an Icelandic NTP server with european servers as backup
+![Screenshot](src/Screenshot%20(29).png)
