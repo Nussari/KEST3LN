@@ -79,4 +79,5 @@ Framleidsludeild printer
 
 ## 12 SSH
 
+Here all computers are being controlled by one through SSH using RSA keys
 ![Screenshot](src/0742F427-7D05-4F97-99B3-5BB0A60EAA5A.jpeg)
