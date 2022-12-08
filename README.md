@@ -61,3 +61,18 @@ Folders created by syslog server (the client1 and client2 folders)
 ![Screenshot](src/Screenshot%20(24).png)
 File created by syslog server
 ![Screenshot](src/Screenshot%20(27).png)
+
+## 10 Postfix
+
+
+
+## 11 Printers
+
+Tölvudeild printer
+![Screenshot](src/Screenshot%20(36).png)
+Rekstrardeild printer
+![Screenshot](src/Screenshot%20(35).png)
+Framkvæmdardeild printer
+![Screenshot](src/Screenshot%20().png)
+Framleidsludeild printer
+![Screenshot](src/Screenshot%20().png)
