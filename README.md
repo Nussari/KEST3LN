@@ -76,3 +76,7 @@ Framkvæmdardeild printer
 ![Screenshot](src/Screenshot%20(39).png)
 Framleidsludeild printer
 ![Screenshot](src/Screenshot%20(38).png)
+
+## 12 SSH
+
+![Screenshot](src/0742F427-7D05-4F97-99B3-5BB0A60EAA5A.jpeg)
