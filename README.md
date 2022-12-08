@@ -26,5 +26,8 @@
 
 ## 5 User account script
 
+Could add with the given user id's (see photo below) so had to remove that part of the script
+
+![Screenshot](src/Screenshot%20(14).png)
 ![Screenshot](src/Screenshot%20(15).png)
 ![Screenshot](src/Screenshot%20(16).png)
