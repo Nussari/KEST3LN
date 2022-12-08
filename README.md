@@ -73,6 +73,6 @@ Tölvudeild printer
 Rekstrardeild printer
 ![Screenshot](src/Screenshot%20(35).png)
 Framkvæmdardeild printer
-![Screenshot](src/Screenshot%20().png)
+![Screenshot](src/Screenshot%20(39).png)
 Framleidsludeild printer
-![Screenshot](src/Screenshot%20().png)
+![Screenshot](src/Screenshot%20(38).png)
