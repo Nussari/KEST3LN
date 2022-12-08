@@ -34,9 +34,9 @@ Could add with the given user id's (see photo below) so had to remove that part 
 
 ## 6 MySQL
 
-![Screenshot](src/src/DC60FB8B-70EE-404A-950B-307B39487738.jpeg)
-![Screenshot](src/src/17E84374-9D83-4B17-BA3C-F77E387BADEC.jpeg)
-![Screenshot](src/src/0D9BAC35-D771-436B-8ACA-D5AE0F061F76.jpeg)
+![Screenshot](src/DC60FB8B-70EE-404A-950B-307B39487738.jpeg)
+![Screenshot](src/17E84374-9D83-4B17-BA3C-F77E387BADEC.jpeg)
+![Screenshot](src/0D9BAC35-D771-436B-8ACA-D5AE0F061F76.jpeg)
 
 ## 7 Weekly backup
 
