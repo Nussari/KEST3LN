@@ -50,3 +50,14 @@ Client configurations
 ![Screenshot](src/Screenshot%20(22).png)
 Server configurations, connected to an Icelandic NTP server with european servers as backup
 ![Screenshot](src/Screenshot%20(29).png)
+
+## 9 Syslog server
+
+Client configurations
+![Screenshot](src/Screenshot%20(26).png)
+Server configurations
+![Screenshot](src/Screenshot%20(25).png)
+Folders created by syslog server (the client1 and client2 folders)
+![Screenshot](src/Screenshot%20(24).png)
+File created by syslog server
+![Screenshot](src/Screenshot%20(27).png)
