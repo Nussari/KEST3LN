@@ -12,3 +12,8 @@
 ![Screenshot](src/Screenshot%20(44).png)
 ![Screenshot](src/Screenshot%20(45).png)
 ![Screenshot](src/Screenshot%20(46).png)
+
+## 3 - DNS
+
+![Screenshot](src/Screenshot%20(42).png)
+![Screenshot](src/Screenshot%20(43).png)
