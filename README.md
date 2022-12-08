@@ -6,3 +6,9 @@
 ![Screenshot](src/Screenshot%20(28).png)
 ![Screenshot](src/Screenshot%20(31).png)
 ![Screenshot](src/Screenshot%20(32).png)
+
+## 2 - DHCP
+
+![Screenshot](src/Screenshot%20(44).png)
+![Screenshot](src/Screenshot%20(45).png)
+![Screenshot](src/Screenshot%20(46).png)
