@@ -81,3 +81,12 @@ Framleidsludeild printer
 
 Here all computers are being controlled by one through SSH using RSA keys
 ![Screenshot](src/0742F427-7D05-4F97-99B3-5BB0A60EAA5A.jpeg)
+
+## 13 Ports
+
+Server
+![Screenshot](src/Screenshot%20(37).png)
+Client1
+![Screenshot](src/Screenshot%20(41).png)
+Client2
+![Screenshot](src/Screenshot%20(40).png)
