@@ -1,7 +1,7 @@
 # KEST3LN Lokaverkefni
 ### Páll Rúnar Sigurðsson og Viktor Andri Hermannsson
 ---
-## 1 - Hostname & Domain
+## 1 - Hostname and domain
 
 ![Screenshot](src/Screenshot%20(28).png)
 ![Screenshot](src/Screenshot%20(31).png)
@@ -31,3 +31,12 @@ Could add with the given user id's (see photo below) so had to remove that part 
 ![Screenshot](src/Screenshot%20(14).png)
 ![Screenshot](src/Screenshot%20(15).png)
 ![Screenshot](src/Screenshot%20(16).png)
+
+## 6 MySQL
+
+
+
+## 7 Weekly backup
+
+![Screenshot](src/Screenshot%20(17).png)
+![Screenshot](src/Screenshot%20(30).png)
